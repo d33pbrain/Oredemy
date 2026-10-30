@@ -11,12 +11,11 @@
 
 Oredemy brings student questions, lecturer responses, class communication, and academic administration together in one web platform. Students can ask questions and use course and chat features; lecturers can manage courses, class representatives, chats, and AI-assisted question groups; administrators can manage schools, faculties, departments, and lecturer verification.
 
-The repository does **not** currently have a folder named `ordemy-app`. The complete Oredemy application is split across two folders:
+The complete Oredemy application is split across two folders:
 
 - [`ordemy-client/`](./ordemy-client/) — the browser app built with React, TypeScript, and Vite.
 - [`ordemy-api/`](./ordemy-api/) — the Express API and MySQL database schema.
 
-In other words, “Oredemy app” means the client and API working together, not a third app folder.
 
 ## Screenshots
 
@@ -36,7 +35,7 @@ In other words, “Oredemy app” means the client and API working together, not
 
 ![Oredemy mobile chat](docs/screenshots/mobile-chat.png)
 
-Use real screenshots from the running app. Before sharing them, hide personal information, access tokens, and other private data.
+
 
 ## Live site and demo accounts
 
